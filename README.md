@@ -1,4 +1,4 @@
-### TOTER - Time-Based Password generator 
+### TOTER - Time-Based OTP Code generator 
 The script toter.py is a Time-based One-time code generator, it will either generate a QRCode image in terminal (saved
 as a png file in same directory). it can retreive OTP code similar to Google Authenticator at a given time.
 
